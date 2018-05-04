@@ -1,0 +1,23 @@
+header {
+  overflow: auto;
+  background-color: #f0d804;
+  color: white;
+  padding: 15px; }
+  header h1 {
+    margin-top: 0; }
+  header nav a {
+    color: white;
+    text-decoration: none; }
+
+#sobre h2 {
+  color: #f0d804; }
+
+#sobre p {
+  text-align: justify; }
+
+body {
+  margin: 0;
+  color: #333; }
+
+section {
+  padding: 0 15px; }

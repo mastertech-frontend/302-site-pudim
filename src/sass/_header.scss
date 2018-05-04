@@ -1,0 +1,17 @@
+header{
+    overflow: auto;
+    background-color: $cor-primaria;
+    color: white;
+    padding: 15px;
+
+    h1{
+        margin-top: 0;
+    }
+
+    nav{
+        a{
+            color: white;
+            text-decoration: none;
+        }
+    }
+}
